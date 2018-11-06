@@ -1,3 +1,10 @@
+# Marlin Firmware for Anet A6
+
+Features enabled:
+* Thermal runaway protection for hotend and bed
+
+Original readme follows:
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
