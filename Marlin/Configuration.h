@@ -79,7 +79,7 @@
 #define STRING_SPLASH_LINE1 ML_SPLASH_LINE1   // will be shown during bootup in line 1
 #define STRING_SPLASH_LINE2 ML_SPLASH_LINE2   // will be shown during bootup in line 2
 
-#define ML_SPLASH_LINE1 SHORT_BUILD_VERSION
+#define ML_SPLASH_LINE1 SHORT_BUILD_VERSION " Optiboot"
 #define ML_SPLASH_LINE2 "MakerLabs Sri Lanka"
 
 /**
